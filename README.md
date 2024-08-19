@@ -1,1 +1,8 @@
 # StockMarketPricePredictionSystem
+
+## What is Stock Price Prediction system?
+A Stock Price Prediction System is like a smart tool that uses special machine learning to predict where the stock market is going. It looks at old stock data, figures out what details matter, and learns from them. This helps people who invest money in stocks to decide if they should buy or sell. The steps involve gathering and fixing old stock information, picking out the important parts, and choosing a computer method to learn from it all. After the computer learns, it can guess what might happen next in the stock market. But remember, even with these tools, the stock market is tricky and can surprise us. So, predictions aren’t always spot on.
+
+## How Stock Price Prediction using machine learning works?
+Design a user friendly interface with elegant images. Add input fields where user can enter name of stock. when user enter stock your system should give output and predict the price of that stock.Accuracy is very important so accuracy of this system which I implemented is 86%.So for user prediction with accuracy matters.
+On the other hand there is machine learning at backend.First, historical stock data, including opening and closing prices, volume traded, and other financial indicators, is collected. This data is then cleaned and normalized to ensure accuracy. Relevant features influencing stock prices, such as trends and technical indicators, are selected. A suitable machine learning model, like linear regression or decision trees, is chosen. The model is trained on historical data, learning patterns and relationships. After training, the model is validated and tested on separate datasets to ensure its ability to make accurate predictions.
